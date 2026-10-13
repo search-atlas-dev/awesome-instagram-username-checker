@@ -9,6 +9,7 @@ A curated list of instagram username checker tools and the pages around them: wh
 ## Checkers
 
 - [Hopper HQ Instagram Name Checker](https://www.hopperhq.com/tools/instagram-name-checker/) - single-network Instagram availability check, part of Hopper HQ's free tools.
+- [InstaNamez](https://instanamez.com) — Free Instagram name generator: creative username ideas plus 30 stylish Unicode text styles to copy into profiles and bios. No signup required.
 - [Instant Username Search](https://instantusername.com/) - checks availability across multiple platforms as you type.
 - [Instant Username Search - Instagram Checker](https://instantusername.com/instagram-username-checker) - the Instagram-specific page.
 - [Instant Username Search - TikTok Checker](https://instantusername.com/tiktok-username-checker) - check the same handle on TikTok in the same session.
