@@ -35,6 +35,7 @@ A curated list of instagram username checker tools and the pages around them: wh
 - [Hopper HQ Link In Bio](https://www.hopperhq.com/features/link-in-bio/) - one link for the profile bio.
 - [DNSChecker QR Code Generator](https://dnschecker.org/qr-code-generator.php) - a QR code for the new profile URL.
 - [DNSChecker Android app](https://dnschecker.org/mobile-app) - the DNSChecker tools on mobile.
+- [IGDataHub](https://igdatahub.com/creators/) - follower history, engagement rate and top posts for tracked public accounts, to see how active a taken username really is.
 
 ## Alternatives
 
